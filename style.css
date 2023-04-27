@@ -1,0 +1,45 @@
+body {
+    background-image: url(./imagens/hans-veth-kOeGrGmABjI-unsplash.jpg);
+    background-size: cover;
+    color: white;
+    text-align: right;
+    margin-left: 90px;
+    font-family: 'EB Garamond', serif;
+}
+
+h1 {
+    font-size: 100px;
+    padding-top: 150px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+span {
+    color: #9146FF;
+}
+
+li {
+    display: inline;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 5px;
+}
+
+.ultimo-paragrafo {
+    margin-bottom: 30px;
+}
+
+.fim {
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px 10px;
+}
